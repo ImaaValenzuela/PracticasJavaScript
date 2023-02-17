@@ -1,9 +1,3 @@
-# Hola, Soy Imanol! 👋
-
-
-## 🚀 Sobre mi
-Estudio Tecnicatura en Desarrollo de Aplicaciones en UNLaM y Desarrollo Full Stack en CoderHouse. 
-
 # Algoritmos de JavaScript y Estructuras de Datos - FreeCodeCamp
 En este repositorio voy a realizar el curso de FreeCodeCamp con el fin de mejorar mi lógica y reforzar mis conocimientos de manera más teórica.
 
